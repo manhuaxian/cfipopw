@@ -1,0 +1,15 @@
+# 测速内核（二进制，自行下载）
+cfst
+cfst.tar.gz
+
+# 运行时生成
+result.csv
+result.f.csv
+informlog
+ipv6.txt
+proxy_ip.txt
+
+# 备份与临时文件
+*.bak
+*.bak.*
+*.log
